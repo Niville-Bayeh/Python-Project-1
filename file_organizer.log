@@ -1,0 +1,29 @@
+2024-11-27 10:27:29,421 - INFO - Organizing existing file: 01 - WESTLIFE - swear it again .mp3 with extension: mp3
+2024-11-27 10:27:29,422 - INFO - Created folder: D:\Project\Audio
+2024-11-27 10:27:29,422 - INFO - Moved: 01 - WESTLIFE - swear it again .mp3 to D:\Project\Audio/
+2024-11-27 10:27:29,422 - INFO - Organizing existing file: 02 - WESTLIFE - bop  bop  baby - WORLD  OF  OUR  OWN.mp3 with extension: mp3
+2024-11-27 10:27:29,423 - INFO - Moved: 02 - WESTLIFE - bop  bop  baby - WORLD  OF  OUR  OWN.mp3 to D:\Project\Audio/
+2024-11-27 10:27:29,423 - INFO - Organizing existing file: 1.jpg with extension: jpg
+2024-11-27 10:27:29,423 - INFO - Created folder: D:\Project\Images
+2024-11-27 10:27:29,424 - INFO - Moved: 1.jpg to D:\Project\Images/
+2024-11-27 10:27:29,424 - INFO - Organizing existing file: Black.png with extension: png
+2024-11-27 10:27:29,424 - INFO - Moved: Black.png to D:\Project\Images/
+2024-11-27 10:27:29,424 - INFO - Organizing existing file: CHIDINMA - This Love.mp4 with extension: mp4
+2024-11-27 10:27:29,425 - INFO - Created folder: D:\Project\Videos
+2024-11-27 10:27:29,425 - INFO - Moved: CHIDINMA - This Love.mp4 to D:\Project\Videos/
+2024-11-27 10:27:29,425 - INFO - Organizing existing file: config.py with extension: py
+2024-11-27 10:27:29,425 - INFO - Skipped: config.py (unknown file type)
+2024-11-27 10:27:29,425 - INFO - Organizing existing file: elementor-pro_v3.25.4.zip with extension: zip
+2024-11-27 10:27:29,425 - INFO - Created folder: D:\Project\Archives
+2024-11-27 10:27:29,426 - INFO - Moved: elementor-pro_v3.25.4.zip to D:\Project\Archives/
+2024-11-27 10:27:29,426 - INFO - Organizing existing file: file_organizer.log with extension: log
+2024-11-27 10:27:29,426 - INFO - Skipped: file_organizer.log (unknown file type)
+2024-11-27 10:27:29,426 - INFO - Organizing existing file: file_organizer.py with extension: py
+2024-11-27 10:27:29,426 - INFO - Skipped: file_organizer.py (unknown file type)
+2024-11-27 10:27:29,426 - INFO - Organizing existing file: Invoice.pdf with extension: pdf
+2024-11-27 10:27:29,427 - INFO - Created folder: D:\Project\Documents
+2024-11-27 10:27:29,427 - INFO - Moved: Invoice.pdf to D:\Project\Documents/
+2024-11-27 10:27:29,427 - INFO - Organizing existing file: logger.py with extension: py
+2024-11-27 10:27:29,427 - INFO - Skipped: logger.py (unknown file type)
+2024-11-27 10:27:29,427 - INFO - Organizing existing file: main.py with extension: py
+2024-11-27 10:27:29,428 - INFO - Skipped: main.py (unknown file type)
