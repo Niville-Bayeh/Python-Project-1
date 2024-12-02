@@ -6,17 +6,14 @@ from logger import get_logger
 # Get logger instance
 logger = get_logger()
 
-def organize_file(file_path, file_name, extension):
-    """
-    Moves the file to the appropriate folder based on its extension.
-    """
+def organize_file(file_path, file_name, extension): #Moves the file to the appropriate folder based on its extension.
     folder_name = None  # Default to None for unknown file types
     for category, extensions in FILE_TYPES.items():
         if extension in extensions:
             folder_name = category
             break
 
-    if folder_name:  # Only proceed if the file matches a known category
+    if folder_name:  #proceed if the file matches a known category
         dest_folder = os.path.join(WATCH_DIRECTORY, folder_name)
         if not os.path.exists(dest_folder):
             os.makedirs(dest_folder)
@@ -33,10 +30,7 @@ def organize_file(file_path, file_name, extension):
         logger.info(f"Skipped: {file_name} (unknown file type)")
         print(f"Skipped: {file_name} (unknown file type)")
 
-def organize_existing_files():
-    """
-    Organizes files already in the directory.
-    """
+def organize_existing_files(): #Organizes files already in the directory.
     for file_name in os.listdir(WATCH_DIRECTORY):
         file_path = os.path.join(WATCH_DIRECTORY, file_name)
         if os.path.isfile(file_path):

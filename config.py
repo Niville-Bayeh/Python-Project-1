@@ -6,7 +6,7 @@ WATCH_DIRECTORY = os.path.expanduser("D:\\Project")  # Adjust this path if neces
 
 # Supported file types and their categories
 FILE_TYPES = {
-    "Images": ['jpg', 'jpeg', 'png', 'gif', 'bmp', 'svg'],
+    "Images": ['jpg', 'jpeg', 'png', 'gif', 'bmp', 'svg'], #Creates a dictionary named FILE_TYPES
     "Documents": ['doc', 'docx', 'pdf', 'txt'],
     "Spreadsheets": ['xls', 'xlsx', 'csv'],
     "Presentations": ['ppt', 'pptx'],
